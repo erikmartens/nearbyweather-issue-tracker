@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-iOS%2015.0+-lightgrey.svg" alt="Platform: iOS">
-<a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-5.6-orange.svg?style=flat" alt="Swift"/></a>
 </p>
 
 ---
@@ -40,6 +39,8 @@ NearbyWeather provides current weather information for for bookmarked weather st
 |:--|:--|:--|:--|
 | 🇺🇸 | 🇩🇪 | 🇫🇷 | 🇨🇳 |
 
+[Translators](Contributors/TRANSLATORS.md)
+
 ## App Releases
 
 Release notes for past version are documented in this repository. Future releases are documented as well outlining the planned changes. If you want to suggest a feature, you can submit a new issue for triage.
@@ -48,6 +49,8 @@ Release notes for past version are documented in this repository. Future release
 |:--|:--|:--|
 | Current Release | [2.2.1](Releases/version_2_2_1.md) | Dec 31 2020 |
 | Next Release | [3.0.0](Releases/version_3_0_0.md) | _TBA_ |
+
+[Contributors v1.0.0 - v2.2.1](Contributors/CONTRIBUTORS.md)
 
 ## How to Contribute
 
