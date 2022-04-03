@@ -42,12 +42,12 @@ NearbyWeather provides current weather information for for bookmarked weather st
 
 ## App Releases
 
-Past releases are documented in the [release documentation](https://github.com/erikmartens/NearbyWeather/releases) of this repository. Future releases are documented there as well outlining the planned changes. If you want to suggest a feature, you can submit a new issue for triage.
+Release notes for past version are documented in this repository. Future releases are documented as well outlining the planned changes. If you want to suggest a feature, you can submit a new issue for triage.
 
 | Type | Version | Release Date |
 |:--|:--|:--|
-| Current Release | [2.2.1](https://github.com/erikmartens/NearbyWeather/releases/tag/v2.3.0) | _N/A_ |
-| Next Release | [Project 3.0.0](https://github.com/erikmartens/NearbyWeather/projects/8) | _N/A_ |
+| Current Release | [2.2.1](Releases/version_2_2_1.md) | Dec 31 2020 |
+| Next Release | [3.0.0]() | _N/A_ |
 
 ## How to Contribute
 
