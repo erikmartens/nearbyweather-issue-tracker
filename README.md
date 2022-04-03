@@ -51,13 +51,15 @@ Release notes for past version are documented in this repository. Future release
 
 ## How to Contribute
 
+> ❗️ To create a ticket, you'll need a [GitHub account](https://github.com/), which is free and easy to do. GitHub is a code collaboration platform that allow for easy version and issue tracking. It keeps everything organized and easy to track. Additionally it allows you to engage in the discussion by adding information and feedback to existing issues.
+
 ### Bug Report
 
-Did you find something wrong with the app? We are looking forward to receiving your reports. You can find out how to take report an issue via the [issue creation guidelines](ISSUECREATIONGUIDELINES.md).
+Did you find something wrong with the app? We are looking forward to receiving your reports. You can find out how to take report an issue via the [issue creation guidelines](ISSUECREATION.md).
 
 ### Feature Request
 
-Do you need the app to do more for you? We are looking forward to hearing about your ideas. You can find out how to submit a feature request via the [feature request guidelines](FEATUREREQUESTGUIDELINES.md).
+Do you need the app to do more for you? We are looking forward to hearing about your ideas. You can find out how to submit a feature request via the [feature request guidelines](FEATUREREQUESTING.md).
 
 ### Translations
 
