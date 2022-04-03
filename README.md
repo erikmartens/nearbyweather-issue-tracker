@@ -47,7 +47,7 @@ Release notes for past version are documented in this repository. Future release
 | Type | Version | Release Date |
 |:--|:--|:--|
 | Current Release | [2.2.1](Releases/version_2_2_1.md) | Dec 31 2020 |
-| Next Release | [3.0.0]() | _N/A_ |
+| Next Release | [3.0.0](Releases/version_3_0_0.md) | _TBA_ |
 
 ## How to Contribute
 
