@@ -51,7 +51,7 @@ Release notes for past version are documented in this repository. Future release
 
 ## How to Contribute
 
-> ❗️ To create a ticket, you'll need a [GitHub account](https://github.com/), which is free and easy to do. GitHub is a code collaboration platform that allow for easy version and issue tracking. It keeps everything organized and easy to track. Additionally it allows you to engage in the discussion by adding information and feedback to existing issues.
+> ❗️ To create a ticket, you'll need a [GitHub account](https://github.com/), which is free and easy to create. GitHub is a code collaboration platform that allows for easy version and issue tracking. It keeps everything organized and easy to overview. Additionally it allows you to engage in the discussion by adding information and feedback to existing issues.
 
 ### Bug Report
 
