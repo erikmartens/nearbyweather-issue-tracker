@@ -27,6 +27,8 @@
 
 > ❗️Please note that you need to supply your own OpenWeatherMap API key, in order to use the app.
 
+> ❗️Legacy source code for versions 2.2.1 and below is available [here](https://github.com/erikmartens/nearbyweather-legacy).
+
 NearbyWeather provides current weather information for for bookmarked weather stations, as well as nearby weather stations. The app uses the OpenWeatherMap API to download weather data.
 
 <p align="center">
