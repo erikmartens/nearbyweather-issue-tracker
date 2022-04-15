@@ -7,12 +7,13 @@
 
 <br>
 <p align="center">
-  <a href="#about-the-app">About the App</a> •
-  <a href="#supported-languages">Supported Languages</a> •
-  <a href="#app-releases">App Releases</a> •
-  <a href="#how-to-contribute">How to Contribute</a> •
-  <a href="#technical-support">Technical Support</a> •
-  <a href="#contact-information">Contact Information</a>
+	<a href="#disclaimer">Disclaimer</a> •
+  	<a href="#about-the-app">About the App</a> •
+  	<a href="#supported-languages">Supported Languages</a> •
+  	<a href="#app-releases">App Releases</a> •
+  	<a href="#how-to-contribute">How to Contribute</a> •
+  	<a href="#technical-support">Technical Support</a> •
+  	<a href="#contact-information">Contact Information</a>
 </p>
 
 <p align="center">
@@ -21,11 +22,17 @@
 
 ---
 
+❗️NearbyWeather development has turned private. Legacy source code for versions 2.2.1 and below is available [here](https://github.com/erikmartens/nearbyweather-legacy) ❗️
+
+---
+
+## Disclaimer
+
+⚠️ Please read the [privacy policy](PRIVACYPOLICY.md) and the [terms of use](TERMSOFUSE.md) before using the app. 
+
+⚠️ By starting up the app you automatically agree to its [privacy policy](PRIVACYPOLICY.md) and its [terms of use](TERMSOFUSE.md).
+
 ## About the App
-
-> ❗️ By using the app you automatically agree to the [privacy policy](PRIVACYPOLICY.md) and the [terms of use](TERMSOFUSE.md).
-
-> ❗️Legacy source code for versions 2.2.1 and below is available [here](https://github.com/erikmartens/nearbyweather-legacy).
 
 NearbyWeather provides current weather information for for bookmarked weather stations, as well as nearby weather stations. The app uses the OpenWeatherMap API to download weather data.
 
