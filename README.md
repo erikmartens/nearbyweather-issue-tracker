@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">NearbyWeather</h1>
+<h2 align="center">Meteorology for Adventurers</h2>
 <h6 align="center">by Erik Maximilian Martens</h6>
 
 <br>
